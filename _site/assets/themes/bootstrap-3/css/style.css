@@ -92,7 +92,7 @@ box-shadow:5px 10px 5px #888888;
 }
 .cus-title{
   margin-left: 20px;
-  margin-top: 10px;
+  padding-top: 5px;
 }
 .cus-title h1{
   color:white;
